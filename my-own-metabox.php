@@ -21,6 +21,8 @@ require_once ('library/class-event.php');
 require_once ('library/class-resource.php');
 
 require_once ('library/class-researcher.php');
+
+require_once ('library/function-reset-query.php');
  
 /*
 	==========================================
